@@ -13,7 +13,7 @@ h3{
 p{
     font-size: 36px;
     letter-spacing: normal;
-    line-height: 40px;
+    line-height: normal;
     text-indent: 0;
     word-spacing: 3px;
 }
@@ -81,4 +81,8 @@ img{
 
 .box-2{
 
+}
+
+ul > li{
+    
 }
